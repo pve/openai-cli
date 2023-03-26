@@ -1,0 +1,6 @@
+give and explain your best answer to the following question.
+Q7 D5. Your data in the cloud can best be deleted by:
+A. Setting the replication factor low enough
+B. Asking your cloud provider to delete it
+C. Physically shredding the hard disk
+D. Encrypting data without exposing the key to the cloud provider, then deleting the key.
