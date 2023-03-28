@@ -1,0 +1,5 @@
+overflows context window
+
+empty line moet input stoppen
+
+ignore empty lines.
